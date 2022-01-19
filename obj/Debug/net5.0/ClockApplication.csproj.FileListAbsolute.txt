@@ -1,0 +1,16 @@
+D:\ClockApplication\obj\Debug\net5.0\ClockApplication.csprojAssemblyReference.cache
+D:\ClockApplication\obj\Debug\net5.0\ClockApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\ClockApplication\obj\Debug\net5.0\ClockApplication.AssemblyInfoInputs.cache
+D:\ClockApplication\obj\Debug\net5.0\ClockApplication.AssemblyInfo.cs
+D:\ClockApplication\obj\Debug\net5.0\ClockApplication.csproj.CoreCompileInputs.cache
+D:\ClockApplication\bin\Debug\net5.0\ClockApplication.exe
+D:\ClockApplication\bin\Debug\net5.0\ClockApplication.deps.json
+D:\ClockApplication\bin\Debug\net5.0\ClockApplication.runtimeconfig.json
+D:\ClockApplication\bin\Debug\net5.0\ClockApplication.runtimeconfig.dev.json
+D:\ClockApplication\bin\Debug\net5.0\ClockApplication.dll
+D:\ClockApplication\bin\Debug\net5.0\ref\ClockApplication.dll
+D:\ClockApplication\bin\Debug\net5.0\ClockApplication.pdb
+D:\ClockApplication\obj\Debug\net5.0\ClockApplication.dll
+D:\ClockApplication\obj\Debug\net5.0\ref\ClockApplication.dll
+D:\ClockApplication\obj\Debug\net5.0\ClockApplication.pdb
+D:\ClockApplication\obj\Debug\net5.0\ClockApplication.genruntimeconfig.cache
